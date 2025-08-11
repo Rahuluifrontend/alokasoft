@@ -234,7 +234,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${i.do
         flex flex-col items-center\r
         gap-[60px]\r
         pt-12 pb-20 px-8\r
-        sm:pt-32 sm:pb-28 sm:px-8\r
+        sm:pt-32 sm:pb-32 sm:px-8\r
         relative w-full \r
         mb-[-120px]\r
       `,children:c.jsxs("div",{className:"flex flex-wrap items-start gap-[48px] max-w-[1204px] w-full",children:[c.jsx("div",{className:" max-w-[476px] flex-1 flex flex-col items-start gap-6 pr-10",children:c.jsxs("div",{className:"flex flex-col items-start gap-4 w-full",children:[c.jsxs(qo,{variant:"outline",className:`\r
