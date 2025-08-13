@@ -181,7 +181,7 @@ export const HomePage = (): JSX.Element => {
         <ValuePropositionSection  aboutusRef={refs.aboutUs} />
         {commonSections.testimonials}
         
-        <TrialOfferSection />
+        {/* <TrialOfferSection /> */}
         <KeyFeatureMobile  keyFeaturesRef={refs.keyFeatures}/>
         <SolutionOverviewSection  ourServicesRef={refs.ourServices} />
         {commonSections.contactform}
